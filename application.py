@@ -4,7 +4,7 @@ import logging.handlers
 from wsgiref.simple_server import make_server, WSGIServer
 from SocketServer import ThreadingMixIn
 
-# TEST LINE 2
+# TEST LINE 3
 
 # Create logger
 logger = logging.getLogger(__name__)
