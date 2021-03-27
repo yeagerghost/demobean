@@ -6,4 +6,5 @@ ADD application.py /tmp/application.py
 EXPOSE 8000
 
 # Run it
+# Run it
 ENTRYPOINT ["python", "/tmp/application.py"]
